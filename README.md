@@ -11,7 +11,6 @@
   Anwendungsentwicklung+(Flutter+%26+Firebase);
   IT+Systemintegration+%26+IT+Support" />
 </p>
-
 <h1 align="center">Hi 👋 I'm Imesh Rathnayake</h1>
 
 <p align="center">
