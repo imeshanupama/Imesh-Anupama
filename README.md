@@ -1,35 +1,8 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=24&
-    pause=1200&
-    color=58A6FF&
-    center=true&
-    vCenter=true&
-    width=700&
-    lines=Ausbildung+Fachinformatiker+Applicant;
-    Fachinformatiker+für+Anwendungsentwicklung+(FIAE);
-    Fachinformatiker+für+Systemintegration+(FISI);
-    Flutter+%7C+Backend+%7C+IT+Support" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Ausbildung+Fachinformatiker+Applicant;Fachinformatiker+für+Anwendungsentwicklung+(FIAE);Fachinformatiker+für+Systemintegration+(FISI);Flutter+%7C+Backend+%7C+IT+Support" />
 </p>
-<h1 align="center">Hi 👋 I'm Imesh Rathnayake</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=24&
-  pause=1000&
-  color=58A6FF&
-  center=true&
-  vCenter=true&
-  width=650&
-  lines=Ausbildung+Fachinformatiker+Applicant;
-  Anwendungsentwicklung+(Flutter+%26+Firebase);
-  IT+Systemintegration+%26+IT+Support;
-  Building+practical+and+documented+projects" />
-</p>
+<h1 align="center">Hi 👋 I'm Imesh Rathnayake</h1>
 
 ---
 
